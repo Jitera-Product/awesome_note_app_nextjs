@@ -1,0 +1,11 @@
+:root {
+  --c-black---primary: #0f0f0f;
+  --c-gray---700: #8d8d8d;
+  --c-black-primary: #0d0d0d;
+  --c-white---primary: #ffffff;
+  --c-gray-70: #f8f8f8;
+  --c-orange---primary: #e86c37;
+}
+body {
+  margin: 0px;
+}
